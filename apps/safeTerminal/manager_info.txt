@@ -1,0 +1,7 @@
+[config]
+addr0 = nicedr.seu.edu.cn
+addr1 = 10.80.2.233
+count = 2
+ipc_port = 8083
+https_port = 443
+agt_download_port = 4430
